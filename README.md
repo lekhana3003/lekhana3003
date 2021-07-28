@@ -11,7 +11,7 @@
 ### :woman_technologist: About Me:
 - 🏦 I'm currently working for a fintech company where I build applications using Python and Java
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Talk to me about bussiness,technology,silicon valley and MCU
+- 💬 Talk to me about technology,traveling and MCU
 - 🌱 I’m currently learning kafka and elastic
 - 😄 Pronouns: She/Her
 
