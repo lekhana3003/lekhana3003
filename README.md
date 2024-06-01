@@ -1,7 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <a href="https://linkedin.com/in/lekhana3003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lekhanag" height="25" width="20" /></a>
 <a href="https://www.hackerrank.com/lekhanag_3003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lekhanag" height="25" width="20" /></a>
-<a href="mailto: lekhanag.3003@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="lekhanag" height="25" width="20" /></a>
+<a href="mailto: lekhana.ganji@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="lekhanag" height="25" width="20" /></a>
  <p align="right">&nbsp;
  <img src="https://komarev.com/ghpvc/?username=lekhana3003&label=Profile%20views&color=0e75b6&style=flat" alt="lekhana3003" height="20" /> </p>
 <p align="center">
